@@ -1,70 +1,96 @@
 # Abdoul Aziz Sarr
 
-Financial Risk Analyst | Quantitative Modeling | Data Analysis
+Financial Risk Analyst | Data Analysis | Quantitative Modeling
+
+📍 Gatineau, QC | 📧 abdoul.sarr@outlook.com  
+💻 GitHub: https://github.com/abdouazizsarr915-code  
 
 ---
 
 ## Profile
 
-I am a Mathematics and Economics graduate from the University of Ottawa with a strong focus on financial risk analysis, quantitative modeling, and data-driven decision-making.
+I am a Mathematics and Economics graduate from the University of Ottawa with a strong focus on financial risk analysis and data-driven decision-making.
 
-My work combines statistical modeling, financial theory, and real-world data to analyze risk exposures, model uncertainty, and support decision-making processes in financial environments.
+I analyze financial data to identify risk drivers, monitor exposures, and support decision-making in uncertain environments. My work combines quantitative modeling with practical applications in risk analysis, reporting, and financial data interpretation.
 
-I have developed applied projects in market risk, time series analysis, portfolio optimization, and derivatives pricing, using reproducible workflows and large-scale datasets.
+Currently, I am a Risk Analyst Intern at SGBS and preparing for the FRM certification.
 
 ---
 
-## Core Expertise
+## What I bring
 
-- Market Risk: Value-at-Risk (VaR), Expected Shortfall (ES), stress testing  
-- Time Series Modeling: ARMA, GARCH, volatility analysis  
-- Portfolio Optimization: Markowitz, CAPM  
-- Derivatives: Monte Carlo pricing, Greeks analysis  
-- Econometrics: Regression (OLS, 2SLS), VAR, stationarity testing  
+- Strong ability to analyze financial data and identify risk drivers  
+- Experience monitoring risk exposure and detecting anomalies  
+- Solid background in quantitative modeling and time series analysis  
+- Ability to translate complex results into clear insights and reports  
+- Comfortable working with large datasets and structured workflows  
+
+---
+
+## Core Skills
+
+- Market Risk: Value-at-Risk (VaR), Expected Shortfall, stress testing  
+- Time Series: ARMA, GARCH, volatility analysis  
+- Portfolio Analysis: Markowitz, CAPM, Sharpe ratio  
+- Derivatives: Monte Carlo simulation, Greeks  
+- Econometrics: Regression (OLS, 2SLS), VAR  
+
+**Tools:** R, Python, SQL, Excel, Git  
 
 ---
 
 ## Featured Projects
 
-### Tail Risk Modeling (VaR & Expected Shortfall)
-Analysis of distributional assumptions in financial risk modeling, comparing Normal vs heavy-tailed approaches with backtesting  
-→ Improves understanding of extreme loss behavior and model limitations  
+### Tail Risk Analysis (VaR & Expected Shortfall)
+Analyzed how model assumptions affect risk estimates and showed that Gaussian models underestimate extreme losses.  
+→ Demonstrates practical risk modeling and validation  
 
-### Portfolio Optimization: Markowitz vs CAPM
-Comparison between empirical and factor-based portfolio construction methods  
-→ Highlights trade-off between performance and stability  
+### Portfolio Optimization (Markowitz vs CAPM)
+Compared performance vs stability of portfolio strategies using real data.  
+→ Shows understanding of real-world investment constraints  
 
-### Time Series Demand Shock Analysis
-ARMA-GARCH modeling of NYC mobility data following COVID shock  
-→ Quantifies demand recovery and volatility clustering  
+### Time Series Analysis (ARMA-GARCH)
+Modeled demand and volatility under structural shock conditions.  
+→ Highlights ability to analyze uncertainty and dynamic systems  
 
 ### Derivatives Pricing & Risk Sensitivity
-Monte Carlo simulation of basket and spread options under correlated dynamics  
-→ Demonstrates impact of correlation on pricing and hedging risk  
-
-### FX Risk Modeling (Regime Switching)
-Gaussian Mixture Model with EM algorithm to detect volatility regimes  
-→ Improves risk estimation under changing market conditions  
+Monte Carlo pricing and Greeks analysis for multi-asset options.  
+→ Demonstrates understanding of market risk and hedging  
 
 ---
 
-## Technical Skills
+## Experience
 
-Programming: R, Python, SQL, Excel  
-Libraries: quantmod, ggplot2, forecast, rugarch  
-Methods: Time Series, Risk Modeling, Econometrics, Simulation  
+**Risk Analyst Intern — SGBS**  
+- Performed credit and financial risk analysis on portfolio data  
+- Identified risk drivers and anomalies in transactions  
+- Supported monitoring and reporting of risk exposure  
+
+**Analyst – Risk Review — Teleperformance**  
+- Reviewed financial cases under compliance frameworks  
+- Detected anomalies and supported risk escalation processes  
 
 ---
 
-## Current Focus
+## Education
 
-- Financial Risk Modeling & Stress Testing  
-- Credit Risk & Exposure Analysis  
-- Expanding into data-driven risk systems  
+B.Sc. Mathematics (Major) & Economics (Minor)  
+University of Ottawa (2026)
+
+FRM Candidate (Financial Risk Manager)
+
+---
+
+## Open to opportunities
+
+I am actively seeking entry-level roles in:
+
+- Financial Risk Analysis  
+- Credit Risk / Market Risk  
+- Data Analysis (Finance)  
 
 ---
 
 ## Contact
 
-Email: seugui1@hotmail.com
-GitHub: https://github.com/abdouazizsarr915-code
+Email: seugui1@hotmail.com  
