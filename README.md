@@ -2,7 +2,7 @@
 
 Financial Risk Analyst | Data Analysis | Quantitative Modeling
 
-📍 Gatineau, QC | 📧 abdoul.sarr@outlook.com  
+📍 Gatineau, QC | 📧 seugui1@hotmail.com  
 💻 GitHub: https://github.com/abdouazizsarr915-code  
 
 ---
